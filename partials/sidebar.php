@@ -3,9 +3,10 @@
     <div class="slide-bar slide-bar1">
       <div class="sidebar-info">
         <div class="sidebar-logo">
-          <a href="index1.php">
-            <img src="assets/img/logo/logo2.png" alt="logo">
-          </a>
+                 <a href="index1.php">
+    <img src="assets/img/logo/logo1.png" class="logo-light" alt="Logo">
+    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo">
+</a>
           <div class="close-mobile-menu">
             <a><i class="fa-solid fa-xmark"></i></a>
           </div>

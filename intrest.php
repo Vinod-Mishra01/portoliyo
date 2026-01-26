@@ -25,7 +25,7 @@
             <div id="list-example" class="list-group">
            
                                  <a class="list-group-item list-group-item-action " href="index.php"><img src="assets/img/icons/home4.svg" alt=""><span>Home</span></a> 
-                                 <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/home1.svg" alt=""><span>Intrests</span></a>
+                                 <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg" width="50px"  alt=""><span>Intrests</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
@@ -45,18 +45,20 @@
 
 
 <div class="img1 image-anime reveal my-slider">
+    <img src="assets/img/all-images/hero/hero-img3.png" alt="">
   <img src="assets/img/all-images/hero/hero-img1.png" alt="">
   <img src="assets/img/all-images/hero/hero-img2.png" alt="">
-  <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+
+    <img src="assets/img/all-images/hero/hero-img4.png" alt="">
 </div>
 
 
 
 
             <div class="space18"></div>
-            <h3>Alex Carry</h3>
+            <h3>Vinod Mishra</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Alex,  a Web Developer with 3+ years of experience building modern, responsive, and secure solutions.</p>
+            <p>Hi, I’m Vinod,  a Web Developer with 3+ years of experience building modern, responsive, and secure solutions.</p>
             <div class="space32"></div>
             <ul>
               <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
@@ -67,7 +69,7 @@
             </ul>
             <div class="space44"></div>
             <div class="btn-area1 text-center">
-              <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
+              <a href="assets/img/all-images/hero/cv.docx" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
             <p>© 2025 VM. All Rights Reserved.</p>
@@ -78,7 +80,7 @@
           <!--===== HERO AREA STARTS =======-->
           <div id="list-item-1">
             <div class="hero-heading-area heading1">
-              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Hi, I’m John , Beyond My Work Life </h5>
+              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Hi, I’m Vinod , Beyond My Work Life </h5>
               <div class="space24"></div>
               <h1 data-aos="fade-left" data-aos-duration="900">Passions Beyond 
 
@@ -118,7 +120,7 @@
             </div>
           </div>
           <!--===== HERO AREA ENDS =======-->
-          <div class="space50"></div>
+          <div class="space100"></div>
           <div id="list-item-2">
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
@@ -215,63 +217,6 @@ helps me grow with a clearer perspective and a better mindset.
                   </div>
 
 
-
-
-
-
-
-
-                  <div class="soace20"></div>
-
-
-                  <!-- <div class="col-lg-6 col-md-6">
-                    <h3>Work Experience</h3>
-                    <div class="space32"></div>
-                    <div class="about-others-box" data-aos="zoom-in" data-aos-duration="900">
-                      <a href="#">2015-2020</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">UI/UX Designer</a> </h4>
-                      <div class="space16"></div>
-                      <p>Creative Spark Agency</p>
-                      <div class="space32"></div>
-                      <a href="#">2020 - Present</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Senior UI/UX Designer </a></h4>
-                      <div class="space16"></div>
-                      <p>Visionary Tech</p>
-                    </div>
-                    <div class="about-others-box text-center" data-aos="zoom-in" data-aos-duration="1000">
-                      <h4>Stay With Me </h4>
-                      <div class="space18"></div>
-                      <ul>
-                        <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-                        <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
-                      </ul>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6">
-                    <h3>Education</h3>
-                    <div class="space32"></div>
-                    <div class="about-others-box" data-aos="zoom-in" data-aos-duration="1100">
-                      <a href="#">2010 - 2013</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Bachelor's Degree in Graphic Design</a> </h4>
-                      <div class="space16"></div>
-                      <p>University of California</p>
-                      <div class="space32"></div>
-                      <a href="#">2013 - 2015</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Master's Degree in User Experience Design</a></h4>
-                      <div class="space16"></div>
-                      <p>Massachusetts Institute of Technology (MIT)</p>
-                    </div>
-                  </div> -->
-
-
                   
                   <div class="space20"></div>
                 </div>
@@ -280,431 +225,15 @@ helps me grow with a clearer perspective and a better mindset.
             <!--===== ABOUT AREA ENDS =======-->
           </div>
 
-          <div id="list-item-3">
-
-
-          
-            <!--===== SERVICE AREA STARTS =======-->
-            <!-- <div class="service-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <div class="service-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Services</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Elevating Brands</h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Intuitive <span>Design</span></h2>
-                      <div class="space50"></div>
-                     <div class="div" data-aos="fade-left" data-aos-duration="900">
-                      <div class="service-main-boxes" >
-                        <h4>Web Development</h4>
-                        <div class="space24"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality and seamless navigation.</p>
-                      </div>
-                     </div>
-
-
-
-                      <div class="space30"></div>
-                      <div class="div" data-aos="fade-left" data-aos-duration="1000">
-                        <div class="service-main-boxes">
-                          <h4>WordPress Development</h4>
-                          <div class="space24"></div>
-                          <p>Custom WordPress solutions for easy content management, themes, and plugin integration.</p>
-                        </div>
-                      </div>
-
-
-
-
-                      <div class="space30"></div>
-                      <div class="div" data-aos="fade-left" data-aos-duration="1100">
-                        <div class="service-main-boxes">
-                          <h4>Full-Stack Development</h4>
-                          <div class="space24"></div>
-                          <p>Handling both front-end and back-end development to build complete web solutions.</p>
-                        </div>
-                      </div>
-
-
-
-
-
-
-                      <div class="space30"></div>
-                      <div class="div" data-aos="fade-left" data-aos-duration="1200">
-                        <div class="service-main-boxes">
-                          <h4>SEO & Website Audits</h4>
-                          <div class="space24"></div>
-                          <p>
-Optimizing your website for search engines and auditing performance for better visibility.</p>
-                        </div>
-                      </div>
-
-
-                       <div class="space30"></div>
-                      <div class="div" data-aos="fade-left" data-aos-duration="1200">
-                        <div class="service-main-boxes">
-                          <h4>SEO & Website Audits</h4>
-                          <div class="space24"></div>
-                          <p>Testing & Quality Assurance
-Ensuring your website works flawlessly across devices with thorough testing.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            ===== SERVICE AREA ENDS ======= -->
-
-
-
-
-
-
-
-
-
-
-
-          </div>
-          <div class="space50"></div>
-          <div id="list-item-4">
-            <!--===== SKILL AREA STARTS =======-->
-            <!-- <div class="skill-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-gl-12">
-                    <div class="skill-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Skill</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">The Tools Behind </h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Exceptional <span>Design</span></h2>
-                    </div>
-                    <div class="space80"></div>
-                    <div class="row">
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="900">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill1.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">96</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Figma</p>
-                        </div>
-                      </div>
-
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill2.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">87</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Photoshop</p>
-                        </div>
-                      </div>
-
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill3.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">90</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Illustrator</p>
-                        </div>
-                      </div>
-
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill4.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">89</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Sketch</p>
-                        </div>
-                      </div>
-
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill5.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">92</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Adobe XD</p>
-                        </div>
-                      </div>
-
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="11000">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill6.svg" alt="" class="Wordpress">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">85</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Wordpress</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> -->
-
-
-
-
-
-            <!--===== SKILL AREA STARTS =======-->
-<!-- <div class="skill-section-area">
-  <div class="container">
-    <div class="row">
-      <div class="col-gl-12">
-        <div class="skill-header heading1">
-          <h5 data-aos="fade-left" data-aos-duration="800">
-            <img src="assets/img/icons/sublogo12.svg" alt="">My Skills
-          </h5>
-          <div class="space24"></div>
-          <h2 data-aos="fade-left" data-aos-duration="1000">The Tools Behind</h2>
-          <div class="space24"></div>
-          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Exceptional <span>Development</span></h2>
-        </div>
-        <div class="space80"></div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
-            <div class="skill-boxarea">
-              <div class="icons">
-              <img src="assets/img/icons/skill4.svg" alt="">
-              </div>
-              <div class="space24"></div>
-              <h3><span class="counter">85</span>%</h3>
-              <div class="space16"></div>
-              <p>HTML / HTML5</p>
-            </div>
-          </div>
-
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
-            <div class="skill-boxarea">
-              <div class="icons">
-                 <img src="assets/img/icons/skill3.svg" alt="">
-              </div>
-              <div class="space24"></div>
-   
-              <div class="space16"></div>
-              <p>CSS / Bootstrap / Tailwind</p>
-            </div>
-          </div>
-
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
-            <div class="skill-boxarea">
-              <div class="icons">
-         <img src="assets/img/icons/skill4.svg" alt="">
-              </div>
-    
-              <div class="space16"></div>
-              <p>JavaScript (ES6+)</p>
-            </div>
-          </div>
-
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
-            <div class="skill-boxarea">
-              <div class="icons">
-                   <img src="assets/img/icons/skill3.svg" alt="">
-              </div>
-              <div class="space24"></div>
-     
-              <div class="space16"></div>
-              <p>React.js</p>
-            </div>
-          </div>
-
- 
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
-            <div class="skill-boxarea">
-              <div class="icons">
-               <img src="assets/img/icons/skilL2.svg" alt="">
-              </div>
-              <div class="space24"></div>
-          
-              <div class="space16"></div>
-              <p>PHP</p>
-            </div>
-          </div>
-
-   
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
-            <div class="skill-boxarea">
-              <div class="icons">
-                <img src="assets/img/icons/skill1.svg" alt="">
-              </div>
-              <div class="space24"></div>
-
-              <div class="space16"></div>
-              <p>WordPress</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
-            <div class="skill-boxarea">
-              <div class="icons">
-                   <img src="assets/img/icons/skill1.svg" alt="">
-              </div>
-              <div class="space24"></div>
-          
-              <div class="space16"></div>
-              <p>WooCommerce</p>
-            </div>
-          </div>
-
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
-            <div class="skill-boxarea">
-              <div class="icons">
-                <img src="assets/img/icons/skill1.svg" alt="">
-              </div>
-              <div class="space24"></div>
- 
-              <div class="space16"></div>
-              <p>Shopify</p>
-            </div>
-          </div>
-
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
-            <div class="skill-boxarea">
-              <div class="icons">
-      <img src="assets/img/icons/skill2.svg" alt="">
-              </div>
-              <div class="space24"></div>
- 
-              <div class="space16"></div>
-              <p>SEO (On-page & Technical)</p>
-            </div>
-          </div>
-
-
-     
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div> -->
-<!--===== SKILL AREA ENDS =======-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <!--===== SKILL AREA ENDS =======-->
-          </div>
+       
           <div class="space30"></div>
           <div id="list-item-5">
-            <!--===== PORTFOLIO AREA STARTS =======-->
-            <!-- <div class="portfolio-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <div class="portfolio-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Portfolio</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Innovation Designs</h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Real <span>Results</span></h2>
-                    </div>
-                  </div>
-                  <div class="space50"></div>
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1000">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img1.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img3.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Academy - Sales Career</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1200">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="#">
-                          <img src="assets/img/all-images/portfolio/portfolio-img4.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Leadlogic- Dashboard Design</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img2.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> -->
+           
 
 
 
-
-
-
-
-
-            <!-- =====================================
-     My Music Moments (2x2 Video Grid)
+<!-- =====================================
+     My Music Moments (Responsive Video Grid)
 ====================================== -->
 <div class="portfolio-section-area">
   <div class="container">
@@ -728,7 +257,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
           </p>
         </div>
       </div>
-    </div> <!-- END HEADER ROW -->
+    </div>
 
     <div class="space50"></div>
 
@@ -736,61 +265,48 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
     <div class="row videoRow">
 
       <!-- CARD 1 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1000">
+      <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1000">
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
               <source src="assets/img/video/video4.mp4" type="video/mp4">
             </video>
           </div>
-          <div class="space24"></div>
+          <div class="space5"></div>
           <a href="#">Soft Melody Practice</a>
         </div>
       </div>
 
       <!-- CARD 2 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1100">
+      <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1100">
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
               <source src="assets/img/video/video3.mp4" type="video/mp4">
             </video>
           </div>
-          <div class="space24"></div>
+          <div class="space5"></div>
           <a href="#">Learning New Chords</a>
         </div>
       </div>
 
       <!-- CARD 3 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
+      <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
               <source src="assets/img/video/video1.mp4" type="video/mp4">
             </video>
           </div>
-          <div class="space24"></div>
+          <div class="space5"></div>
           <a href="#">Finger Speed Practice</a>
         </div>
       </div>
 
-      <!-- CARD 4 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1300">
-        <div class="portfolio-boxarea2 click-here">
-          <div class="img12">
-            <video controls class="music-video">
-              <source src="assets/img/video/video2.mp4" type="video/mp4">
-            </video>
-          </div>
-          <div class="space24"></div>
-          <a href="#">Cover Tune Practice</a>
-        </div>
-      </div>
+    </div><!-- END VIDEO ROW -->
 
-    </div> <!-- END VIDEO ROW -->
-
-  </div> <!-- END CONTAINER -->
-</div> <!-- END PORTFOLIO SECTION -->
+  </div>
+</div>
 
 
 
@@ -799,13 +315,21 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
           </div>
 
 
-          <div class="space30"></div>
+          <div class="space60"></div>
           <div id="list-item-6">
             <!--===== TESTIMONIAL AREA STARTS =======-->
 
 
 
-    <!--===== BOOKS SECTION START =====-->
+
+
+
+
+
+
+
+<!--===== BOOKS SECTION START =====-->
+<!--===== BOOKS SECTION START =====-->
 <div class="portfolio-section-area">
   <div class="container">
 
@@ -813,15 +337,13 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
     <div class="row">
       <div class="col-lg-12">
         <div class="portfolio-header heading1">
-          <h5 data-aos="fade-left" data-aos-duration="800">
-            <img src="assets/img/icons/sublogo1.svg" alt="">Books That Shaped Me
+          <h5>
+            <img src="assets/img/icons/sublogo1.svg" alt=""> Books That Shaped Me
           </h5>
           <div class="space24"></div>
-          <h2 data-aos="fade-left" data-aos-duration="1000">Reading That Builds</h2>
+          <h2>Reading That Builds</h2>
           <div class="space16"></div>
-          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
-            My <span>Mindset</span>
-          </h2>
+          <h2 class="head">My <span>Mindset</span></h2>
         </div>
       </div>
     </div>
@@ -832,90 +354,228 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
     <div class="row">
       <div class="col-lg-12">
         <div class="book-tabs">
-          <button class="book-tab active" onclick="openBookTab(event, 'selfgrowth')">Self Growth</button>
-          <button class="book-tab" onclick="openBookTab(event, 'philosophy')">Philosophy</button>
-          <button class="book-tab" onclick="openBookTab(event, 'fiction')">Fiction</button>
+          <button class="book-tab active" onclick="openBookTab(event,'selfgrowth')">Philosophy & Self Help</button>
+          <button class="book-tab" onclick="openBookTab(event,'hindi')">Hindi Literature</button>
+          <button class="book-tab" onclick="openBookTab(event,'english')">English Literature</button>
+          <button class="book-tab" onclick="openBookTab(event,'spiritual')">Spiritual</button>
         </div>
       </div>
     </div>
 
     <div class="space40"></div>
 
-    <!-- TAB CONTENT: SELF GROWTH -->
+    <!-- ================= SELF GROWTH ================= -->
     <div id="selfgrowth" class="book-tab-content" style="display:block;">
       <div class="row">
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+              <a href="assets/img/books/book1 (7).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (7).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Atomic Habits</a>
+            <div class="space10"></div>
+            <a href="#">The Laws of Human Nature</a>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+              <a href="assets/img/books/book1 (13).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (13).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Deep Work</a>
+            <div class="space10"></div>
+            <a href="#">Power of Subconscious Mind</a>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+              <a href="assets/img/books/book1 (21).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (21).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">The Subtle Art of Not Giving a F</a>
+            <div class="space10"></div>
+            <a href="#">Man's Search for Meaning</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (3).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (3).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Beyond Good and Evil</a>
+          </div>
+        </div>
+        
+
+
+
+
+           <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/bookd.png" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/bookd.png" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Dream Psychology</a>
+          </div>
+        </div>
+
+
+
+
+
+
+           <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (3).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (3).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Beyond Good and Evil</a>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- ================= HINDI ================= -->
+    <div id="hindi" class="book-tab-content" style="display:none;">
+      <div class="row">
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (11).jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/book1 (11).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Godan</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (15).jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/book1 (15).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Gaban</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (18).jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/book1 (18).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">October Junction</a>
           </div>
         </div>
 
       </div>
     </div>
 
-    <!-- TAB CONTENT: PHILOSOPHY -->
-    <div id="philosophy" class="book-tab-content">
+    <!-- ================= ENGLISH ================= -->
+    <div id="english" class="book-tab-content" style="display:none;">
       <div class="row">
 
-        <div class="col-lg-4 col-md-6">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+              <a href="assets/img/books/book1 (2).jpg" class="glightbox" data-gallery="english">
+                <img src="assets/img/books/book1 (2).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Meditations – Marcus Aurelius</a>
+            <div class="space10"></div>
+            <a href="#">Anne Frank</a>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+              <a href="assets/img/books/book1 (1).jpeg" class="glightbox" data-gallery="english">
+                <img src="assets/img/books/book1 (1).jpeg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Beyond Good & Evil – Nietzsche</a>
+            <div class="space10"></div>
+            <a href="#">Dream Psychology</a>
           </div>
         </div>
 
       </div>
     </div>
 
-    <!-- TAB CONTENT: FICTION -->
-    <div id="fiction" class="book-tab-content">
+    <!-- ================= SPIRITUAL ================= -->
+    <div id="spiritual" class="book-tab-content" style="display:none;">
       <div class="row">
 
-        <div class="col-lg-4 col-md-6">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+              <a href="assets/img/books/book1 (1).jpeg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (1).jpeg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">The Alchemist</a>
+            <div class="space10"></div>
+            <a href="#">Krishna Ki Aatmkatha</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (22).jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (22).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Karn Ki Aatmkatha</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (11).jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (11).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Kamayni</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (16).jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (16).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Shikhndi</a>
           </div>
         </div>
 
@@ -926,13 +586,14 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
 </div>
 <!--===== BOOKS SECTION END =====-->
 
+
             <!--===== TESTIMONIAL AREA ENDS =======-->
 
 
 
 
           </div>
-          <div class="space30"></div>
+          <div class="space60"></div>
           <div id="list-item-7">
 
 
@@ -954,7 +615,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                       <h2 class="head" data-aos="fade-left" data-aos-duration="1200">Daily  <span>  Life Blog</span> </h2>
                       <div class="space60"></div>
                       <div class="row">
-                        <div class="col-lg-6 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img1.png" alt=""></a>
@@ -962,19 +623,16 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+                        <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">Behind the Pixels: My Favorite Design Projects</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                        
                             </div>
                           </div>
                         </div>
-                        <div class="col-lg-6 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img2.png" alt=""></a>
@@ -982,20 +640,17 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+                      <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">Crafting Seamless Experiences: My UI/UX Design Philosophy</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                          
                             </div>
                           </div>
                         </div>
 
-                        <div class="col-lg-6 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img3.png" alt=""></a>
@@ -1003,20 +658,17 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+              <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">Staying Ahead: Trends Shaping UI/UX in 2024</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                           
                             </div>
                           </div>
                         </div>
 
-                        <div class="col-lg-6 col-md-6">
+                        <!-- <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img4.png" alt=""></a>
@@ -1024,21 +676,21 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+                             <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">From Concept to Reality: My Design Process</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                           
                             </div>
                           </div>
-                        </div>
+                        </div> -->
 
                         <div class="space30"></div>
-                        <div class="pagination-area">
+
+
+
+                        <!-- <div class="pagination-area">
                           <nav aria-label="Page navigation example">
                             <ul class="pagination justify-content-center">
                               <li class="page-item">
@@ -1057,7 +709,11 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                               </li>
                             </ul>
                           </nav>
-                        </div>
+                        </div> -->
+
+
+
+
                       </div>
                     </div>
                   </div>
@@ -1179,7 +835,10 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
         <div class="space50"></div>
         <div class="footer-area">
           <div class="btn-area1">
-            <a href="index1.php"><img src="assets/img/logo/logo1.png" alt=""></a>
+                 <a href="index1.php">
+    <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo">
+    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo">
+</a>
           </div>
           <p>© 2025 VMTECH. All Rights Reserved.</p>
         </div>
@@ -1282,7 +941,29 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
 <?php include 'partials/footer-scripts.php' ?>
 
 </body>
+<script>
+  // Initialize GLightbox
+  const lightbox = GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+    loop: true,
+    zoomable: true,
+  });
 
+  // Tabs Function
+  function openBookTab(evt, tabName) {
+    const tabcontent = document.getElementsByClassName("book-tab-content");
+    for (let i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    const tablinks = document.getElementsByClassName("book-tab");
+    for (let i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+</script>
 
 
 </html>

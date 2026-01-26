@@ -24,7 +24,7 @@
           <div class="personal-contact-box" data-aos="fade-right" data-aos-duration="1000">
             <div id="list-example" class="list-group">
               <a class="list-group-item list-group-item-action active" href="#list-item-1"><img src="assets/img/icons/home1.svg" alt=""><span>Home</span></a>
-                     <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/home1.svg" alt=""><span>Intrests</span></a>
+                     <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg"  width="50px" alt=""><span>Intrests</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
@@ -41,9 +41,11 @@
             </div> -->
 
 <div class="img1 image-anime reveal my-slider">
+    <img src="assets/img/all-images/hero/hero-img3.png" alt="">
   <img src="assets/img/all-images/hero/hero-img1.png" alt="">
   <img src="assets/img/all-images/hero/hero-img2.png" alt="">
   <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+    <img src="assets/img/all-images/hero/hero-img4.png" alt="">
 </div>
 
 
@@ -52,9 +54,9 @@
 
 
             <div class="space18"></div>
-            <h3>Alex Carry</h3>
+            <h3>Vinod Mishra</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Alex, I’m a Web Developer with 3+ years of experience creating versatile and modern digital solutions. I specialize in crafting designs and functionalities that are responsive, secure, and user-friendly, delivering real results for both businesses and users. I take a user-centered approach to every project, combining creativity, technical expertise, and proper planning to ensure websites look great, perform well, and meet the goals of clients and users alike. My passion lies in continuously learning and applying the latest technologies to provide innovative and reliable solutions.</p>
+            <p>Hi, I’m Vinod, I’m a Web Developer with 3+ years of experience creating versatile and modern digital solutions. I specialize in crafting designs and functionalities that are responsive, secure, and user-friendly, delivering real results for both businesses and users. I take a user-centered approach to every project, combining creativity, technical expertise, and proper planning to ensure websites look great, perform well, and meet the goals of clients and users alike. My passion lies in continuously learning and applying the latest technologies to provide innovative and reliable solutions.</p>
             <div class="space32"></div>
             <ul>
               <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
@@ -65,10 +67,10 @@
             </ul>
             <div class="space44"></div>
             <div class="btn-area1 text-center">
-              <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
+              <a href="assets/img/all-images/hero/cv.docx" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 OVRO. All Rights Reserved.</p>
+            <p>© 2026 VMTECH. All Rights Reserved.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -82,17 +84,40 @@
               <div class="space24"></div>
               <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Experiences <span>Inspire</span></h1>
               <div class="space24"></div>
+             
+             
+             
               <p data-aos="fade-left" data-aos-duration="1100">Your gateway to innovative design, seamless user experiences, and impactful solutions. Turning complex ideas into user-friendly designs. </p>
-              <div class="arrow" data-aos="fade-left" data-aos-duration="1200">
+             
+             
+             
+               <div class="arrow" data-aos="fade-left" data-aos-duration="1200">
                 <a href="#">
                   <img src="assets/img/elements/elements1.png" alt="" class="elements1 keyframe5">
                   <img src="assets/img/icons/arrow1.svg" alt="" class="arrow1">
                 </a>
 
                 <div class="images">
-                  <img src="assets/img/all-images/others/others1.png" alt="">
-                  <p>2k+ reviews <br> (4.90 of 5)</p>
+                <div class="social-link-area">
+      
+          <ul>
+            <li>
+              <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
+              <a href="#" class="socialIcon"><i class="fa-brands fa-instagram"></i></a>
+              <a href="#" class="socialIcon"><i class="fa-brands fa-linkedin-in"></i></a>
+              <!-- <a href="#"><i class="fa-brands fa-pinterest-p"></i></a> -->
+              <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
+            </li>
+          </ul>
+        </div>
+                  <p>Stay 
+
+ <br> Connected</p>
                 </div>
+              </div>
+              <div class="space32"></div>
+              <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
+                <a href="#">Start a Conversation<span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
               <div class="space32"></div>
               <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
@@ -101,7 +126,7 @@
             </div>
           </div>
           <!--===== HERO AREA ENDS =======-->
-          <div class="space50"></div>
+          <div class="space100"></div>
           <div id="list-item-2">
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
@@ -260,7 +285,7 @@
 
 </div>
 
-                  <div class="space20"></div>
+                  <div class="space80"></div>
                 </div>
               </div>
             </div>
@@ -457,7 +482,7 @@
 
             <!--===== SERVICE AREA ENDS =======-->
           </div>
-          <div class="space50"></div>
+          <div class="space80"></div>
 
 
           <div id="list-item-4">
@@ -487,8 +512,29 @@
       <div class="row">
 
 
-          <!-- JavaScript -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="900">
+          <!-- HTML -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1100">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/html.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>HTML</p>
+            </div>
+          </div>
+    <!-- CSS -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/css.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>CSS</p>
+            </div>
+          </div>
+
+       <!-- CSS -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
                 <img src="assets/img/icons/js.png" alt="">
@@ -497,6 +543,34 @@
               <p>JavaScript</p>
             </div>
           </div>
+
+      
+          <!-- React -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/react.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>React</p>
+            </div>
+          </div>
+
+
+             <!-- React -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/angular.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Angular</p>
+            </div>
+          </div>
+
+
+
+
 
           <!-- Node.js -->
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="950">
@@ -509,50 +583,8 @@
             </div>
           </div>
 
-          <!-- React -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/react.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>React</p>
-            </div>
-          </div>
 
-          <!-- CSS -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/css.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>CSS</p>
-            </div>
-          </div>
-
-          <!-- HTML -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1100">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/html.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>HTML</p>
-            </div>
-          </div>
-
-
-          <!-- Excel -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1150">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/excel.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>Excel</p>
-            </div>
-          </div>
+     
 
           <!-- MongoDB -->
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1200">
@@ -565,28 +597,19 @@
             </div>
           </div>
 
-          <!-- Shopify -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1250">
+    
+          <!-- SQL -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1450">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/shopify.png" alt="">
+                <img src="assets/img/icons/sql.png" alt="">
               </div>
               <div class="space16"></div>
-              <p>Shopify</p>
+              <p>SQL</p>
             </div>
           </div>
 
-          <!-- SEO -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/seo.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>SEO</p>
-            </div>
-          </div>
-
+     
           <!-- PHP -->
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1350">
             <div class="skill-boxarea" style="padding:16px;">
@@ -608,18 +631,65 @@
               <p>WordPress</p>
             </div>
           </div>
-
-          <!-- SQL -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1450">
+                <!-- Shopify -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1250">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/sql.png" alt="">
+                <img src="assets/img/icons/shopify.png" alt="">
               </div>
               <div class="space16"></div>
-              <p>SQL</p>
+              <p>Shopify</p>
             </div>
           </div>
 
+
+              <!-- Node.js -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="950">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/figma.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Figma</p>
+            </div>
+          </div>
+
+
+     <!-- SEO -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/seo.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>SEO</p>
+            </div>
+          </div>
+
+
+              <!-- SEO -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/git.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Git </p>
+            </div>
+          </div>
+
+
+
+    <!-- Excel -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1150">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/excel.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Advance Excel</p>
+            </div>
+          </div>
 
         </div>
 
@@ -632,96 +702,91 @@
 
             <!--===== SKILL AREA ENDS =======-->
           </div>
-          <div class="space30"></div>
+          <div class="space80"></div>
           <div id="list-item-5">
 
 
 
-            <!--===== PORTFOLIO AREA STARTS =======-->
-            <div class="portfolio-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
+           <!--===== PORTFOLIO AREA STARTS =======-->
+<div class="portfolio-section-area">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
 
-
-  <div class="skill-header heading1">
+        <!-- KEEP YOUR HEADER SAME -->
+        <div class="skill-header heading1">
           <h5 data-aos="fade-left" data-aos-duration="800">
             <img src="assets/img/icons/sublogo1.svg" alt="">My Portfolio
           </h5>
           <div class="space24"></div>
-          <h2 data-aos="fade-left" data-aos-duration="1000">Worked Across
- </h2>
+          <h2 data-aos="fade-left" data-aos-duration="1000">Worked Across</h2>
           <div class="space24"></div>
           <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
-         Diverse <span>Industries </span>
+            Diverse <span>Industries</span>
           </h2>
         </div>
 
+      </div>
+
+      <div class="space50"></div>
+
+      <!-- ONLY DESIGN CHANGED BELOW -->
+<div class="col-lg-12">
+  <div class="industries-grid">
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/healthcare.png')">
+      <span>Healthcare / Hospitals</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/hospitality.png')">
+      <span>Hospitality</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/event.png')">
+      <span>Events & Advertising</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/foood.png')">
+      <span>Food & Beverages</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/pharma.png')">
+      <span>Pharmaceuticals</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/tours.png')">
+      <span>Travel & Tourism</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/real-estate.png')">
+      <span>Real Estate</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/manufactring.png')">
+      <span>Packaging Machinery Manufacturer</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/staffing.png')">
+      <span>Recruitment & Staffing</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/e-commer.png')">
+      <span>E-commerce Stores</span>
+    </div>
+
+  </div>
+</div>
 
 
 
 
-                  </div>
-                  <div class="space50"></div>
+    </div>
+  </div>
+</div>
+<!--===== PORTFOLIO AREA ENDS =======-->
 
-
-
-
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1000">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img1.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img3.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Academy - Sales Career</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1200">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="#">
-                          <img src="assets/img/all-images/portfolio/portfolio-img4.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Leadlogic- Dashboard Design</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img2.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-
-                  
-                </div>
-              </div>
-            </div>
-            <!--===== PORTFOLIO AREA ENDS =======-->
           </div>
-          <div class="space30"></div>
+          <div class="space80"></div>
           <div id="list-item-6">
             <!--===== TESTIMONIAL AREA STARTS =======-->
             <div class="testimonial-section-area">
@@ -855,7 +920,7 @@
             </div>
             <!--===== TESTIMONIAL AREA ENDS =======-->
           </div>
-          <div class="space30"></div>
+          <div class="space80"></div>
           <div id="list-item-7">
             <!--===== BLOG AREA STARTS =======-->
             <div class="blog-section-area">
@@ -954,7 +1019,7 @@
                         </div>
 
                         <div class="space30"></div>
-                        <div class="pagination-area">
+                        <!-- <div class="pagination-area">
                           <nav aria-label="Page navigation example">
                             <ul class="pagination justify-content-center">
                               <li class="page-item">
@@ -973,14 +1038,14 @@
                               </li>
                             </ul>
                           </nav>
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <!--===== BLOG AREA ENDS =======-->
+            <!--===== BLOG AREA ENDS =======-  
           </div>
           <div class="space60"></div>
           <div id="list-item-8">
@@ -1094,9 +1159,12 @@
         <div class="space50"></div>
         <div class="footer-area">
           <div class="btn-area1">
-            <a href="index1.php"><img src="assets/img/logo/logo1.png" alt=""></a>
+                   <a href="index1.php">
+    <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo">
+    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo">
+</a>
           </div>
-          <p>© 2025 VMTECH. All Rights Reserved.</p>
+          <p>© 2026 VMTECH. All Rights Reserved.</p>
         </div>
       </div>
 
@@ -1185,7 +1253,7 @@
                       <div class="btn-area1">
                         <a href="index1.php"><img src="assets/img/logo/logo1.png" alt=""></a>
                       </div>
-                      <p>© 2024 OVRO. All Rights Reserved.</p>
+                      <p>© 2025 VMTECH. All Rights Reserved.</p>
                     </div>
                   </div>
                 </div>
