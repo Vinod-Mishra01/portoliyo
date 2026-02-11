@@ -29,7 +29,7 @@
               <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-5"><img src="assets/img/icons/home5.svg" alt=""> <span>Portfolio</span></a>
-              <a class="list-group-item list-group-item-action" href="#list-item-6"><img src="assets/img/icons/home6.svg" alt=""> <span>Testimonial</span></a>
+              <!-- <a class="list-group-item list-group-item-action" href="#list-item-6"><img src="assets/img/icons/home6.svg" alt=""> <span>Testimonial</span></a> -->
               <a class="list-group-item list-group-item-action" href="#list-item-7"><img src="assets/img/icons/home8.svg" alt=""> <span>Our Blog</span></a>
               <a class="list-group-item list-group-item-action m-0" href="#list-item-8"><img src="assets/img/icons/home7.svg" alt=""> <span>Contact Us</span></a>
             </div>
@@ -50,24 +50,22 @@
 
 
 
-
-
-
-            <div class="space18"></div>
+     <div class="space18"></div>
             <h3>Vinod Mishra</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Vinod, I’m a Web Developer with 3+ years of experience creating versatile and modern digital solutions. I specialize in crafting designs and functionalities that are responsive, secure, and user-friendly, delivering real results for both businesses and users. I take a user-centered approach to every project, combining creativity, technical expertise, and proper planning to ensure websites look great, perform well, and meet the goals of clients and users alike. My passion lies in continuously learning and applying the latest technologies to provide innovative and reliable solutions.</p>
+
+            <p>I’m Vinod, a Web Developer with 3+ years of experience building modern, responsive, and secure digital solutions. I focus on intuitive design, and performance-driven experiences that deliver real results. Inspired by creativity, curiosity, and the small moments that keep me balanced and motivated.</p>
             <div class="space32"></div>
             <ul>
-              <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/mail-w.svg" alt=""></a></li>
               <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
+              <li><a href="tel:+916306850747"><img src="assets/img/icons/phone-w.svg" alt=""></a></li>
               <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-              <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
+              <li><a href="#" class="m-0"><img src="assets/img/icons/whatsap-w.svg" alt=""></a></li>
             </ul>
             <div class="space44"></div>
             <div class="btn-area1 text-center">
-              <a href="assets/img/all-images/hero/cv.docx" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
+              <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
             <p>© 2026 VMTECH. All Rights Reserved.</p>
@@ -78,7 +76,7 @@
           <!--===== HERO AREA STARTS =======-->
           <div id="list-item-1">
             <div class="hero-heading-area heading1">
-              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Hi, I’m Alex, UI/UX Designer </h5>
+              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Hi, I’m Vinod Mishra, Web Developer </h5>
               <div class="space24"></div>
               <h1 data-aos="fade-left" data-aos-duration="900">Designing Intuitive </h1>
               <div class="space24"></div>
@@ -103,8 +101,20 @@
           <ul>
             <li>
               <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
-              <a href="#" class="socialIcon"><i class="fa-brands fa-instagram"></i></a>
-              <a href="#" class="socialIcon"><i class="fa-brands fa-linkedin-in"></i></a>
+          <a href="https://www.instagram.com/_prince_mishra_01_?igsh=YXRxbjVvOXR1em5z"
+   class="socialIcon"
+   target="_blank"
+   rel="noopener">
+   <i class="fa-brands fa-instagram"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/vinodmishraa"
+   class="socialIcon"
+   target="_blank"
+   rel="noopener">
+   <i class="fa-brands fa-linkedin-in"></i>
+</a>
+
               <!-- <a href="#"><i class="fa-brands fa-pinterest-p"></i></a> -->
               <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
             </li>
@@ -115,10 +125,7 @@
  <br> Connected</p>
                 </div>
               </div>
-              <div class="space32"></div>
-              <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
-                <a href="#">Start a Conversation<span><i class="fa-solid fa-arrow-right"></i></span></a>
-              </div>
+              
               <div class="space32"></div>
               <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
                 <a href="#">Lets Work Together <span><i class="fa-solid fa-arrow-right"></i></span></a>
@@ -142,9 +149,11 @@
                 <div class="row">
                   <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1200">
                     <div class="about-main-boxes">
-                      <h4>Alex Carry</h4>
+                      <h4>Vinod Mishra</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Alex — a Web Developer with over 3 years of experience building modern, responsive, and secure digital experiences. I focus on creating user-centered designs that balance aesthetics with functionality. My work combines creativity, strategic planning, and technical precision to deliver websites that perform well and meet real business needs. I’m committed to staying updated with the latest technologies to produce innovative, dependable solutions. </p>
+                      <p>Hi, I’m Vinod, a Web Developer with 3+ years of experience building modern, responsive, and secure digital solutions. I’ve worked on numerous websites, software projects, and e-commerce solutions across different domains using a variety of modern web technologies.
+
+I focus on creating clean, efficient, and scalable solutions, with strong attention to performance, security, and intuitive UI design - ensuring every project is both visually appealing and easy to use. </p>
                     </div>
                   </div>
 
@@ -211,9 +220,9 @@
     
         <a href="#">Oct 2025 - Present</a>
         <div class="space16"></div>
-        <h4><a href="#">Web Developer</a></h4>
+        <h4><a href="#list-item-5">Web Developer</a></h4>
         <div class="space16"></div>
-        <p>bEdge Tech Services</p>
+        <p>ABC</p>
         <div class="space32"></div>
 
 
@@ -221,7 +230,7 @@
 
             <a href="#">2023 - Oct 2025</a>
         <div class="space16"></div>
-        <h4><a href="#">Web Developer</a></h4>
+        <h4><a href="#list-item-5">Web Developer</a></h4>
         <div class="space16"></div>
         <p>CompuBrain Pvt Ltd</p>
     </div>
@@ -230,11 +239,11 @@
         <h4>Stay Connected</h4>
         <div class="space18"></div>
         <ul>
-            <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/mail-w.svg" alt=""></a></li>
             <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-            <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
+            <!-- <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li> -->
             <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-            <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
+            <li><a href="#" class="m-0"><img src="assets/img/icons/whatsap-w.svg" alt=""></a></li>
         </ul>
     </div>
 </div>
@@ -271,9 +280,9 @@
 
    
 
-   <a href="#">+91 9876543210</a>
-        <div class="space10"></div>
-  <a href="#"> yourmail@example.com </a>
+<a href="tel:+916306850747">+91 6306850747</a>
+<div class="space10"></div>
+<a href="mailto:017vinodm@gmail.com">017vinodm@gmail.com</a>
 
    
 
@@ -817,7 +826,7 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>"Working with Alex was a game-changer for our brand. Their attention to detail and focus on creating a seamless user experience truly transformed our website. We’ve seen an incredible boost in user engagement and satisfaction."</p>
+                      <p>"Working with Vinodwas a game-changer for our brand. Their attention to detail and focus on creating a seamless user experience truly transformed our website. We’ve seen an incredible boost in user engagement and satisfaction."</p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
@@ -845,7 +854,7 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>"Alex exceeded all expectations with their innovative designs and collaborative approach. Reality that perfectly resonates with our audience."</p>
+                      <p>"Vinodexceeded all expectations with their innovative designs and collaborative approach. Reality that perfectly resonates with our audience."</p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
@@ -902,7 +911,7 @@
                         </svg>
                       </div>
                       <div class="space20"></div>
-                      <p>"From wireframes to the final product, Alex brought creativity and functionality together beautifully. The final design not only looks fantastic but also works flawlessly across devices."</p>
+                      <p>"From wireframes to the final product, Vinodbrought creativity and functionality together beautifully. The final design not only looks fantastic but also works flawlessly across devices."</p>
                       <div class="space24"></div>
                       <div class="mans-area">
                         <div class="man">
@@ -928,6 +937,8 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="blog-header heading1">
+
+
                       <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Our Blog</h5>
                       <div class="space24"></div>
                       <h2 data-aos="fade-left" data-aos-duration="1000">Our Latest Blog Idea </h2>
@@ -935,7 +946,11 @@
                       <h2 class="head" data-aos="fade-left" data-aos-duration="1200">UI/UX <span>Trends</span></h2>
                       <div class="space60"></div>
                       <div class="row">
-                        <div class="col-lg-6 col-md-6">
+
+
+
+
+                        <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img1.png" alt=""></a>
@@ -949,13 +964,17 @@
                               <a href="blog-single.php">Behind the Pixels: My Favorite Design Projects</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Vinod Mishra</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
                           </div>
                         </div>
-                        <div class="col-lg-6 col-md-6">
+
+
+
+
+                        <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img2.png" alt=""></a>
@@ -969,14 +988,18 @@
                               <a href="blog-single.php">Crafting Seamless Experiences: My UI/UX Design Philosophy</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Vinod Mishra</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
                           </div>
                         </div>
 
-                        <div class="col-lg-6 col-md-6">
+
+
+
+
+                        <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img3.png" alt=""></a>
@@ -990,14 +1013,18 @@
                               <a href="blog-single.php">Staying Ahead: Trends Shaping UI/UX in 2024</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Vinod Mishra</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
                           </div>
                         </div>
 
-                        <div class="col-lg-6 col-md-6">
+
+
+
+
+                        <!-- <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img4.png" alt=""></a>
@@ -1011,14 +1038,16 @@
                               <a href="blog-single.php">From Concept to Reality: My Design Process</a>
                               <div class="space16"></div>
                               <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
+                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Vinod Mishra</a></li>
                                 <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                             </div>
                           </div>
-                        </div>
+                        </div> -->
 
-                        <div class="space30"></div>
+
+
+                        <div class="space80"></div>
                         <!-- <div class="pagination-area">
                           <nav aria-label="Page navigation example">
                             <ul class="pagination justify-content-center">
@@ -1045,6 +1074,9 @@
                 </div>
               </div>
             </div>
+
+
+          </div>
             <!--===== BLOG AREA ENDS =======-  
           </div>
           <div class="space60"></div>
@@ -1064,7 +1096,10 @@
 
 
 
-<!--===== CONTACT AREA STARTS =======-->
+<!- ===== CONTACT AREA STARTS =======-->
+
+
+        <div id="list-item-8">
 <div class="contact-section-area">
   <div class="container">
     <div class="row">
@@ -1171,6 +1206,7 @@
     </div>
   </div>
 </div>
+        </div>
 <!--===== CONTACT AREA ENDS =======-->
 
 
@@ -1288,7 +1324,7 @@
                         <div class="content">
                           <div class="tags-area">
                                                        <a href="#">23 April 2024</a>
-                            <a href="#">Alex Ross</a>
+                            <a href="#">VinodRoss</a>
                           </div>
                           <a href="#">Crafting Compelling Designs and Strategic Marketing: A Creative Journey Unveiled</a>
                           <p>In today's fast-paced digital landscape, the intersection of design and marketing has become increasingly vital for businesses aiming to best captivate audiences and drive success. Crafting compelling designs.</p>

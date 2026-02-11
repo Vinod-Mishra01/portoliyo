@@ -123,7 +123,7 @@
               <img src="assets/img/all-images/hero/hero-img1.png" alt="">
             </div>
             <div class="space18"></div>
-            <h3>Alex Carry</h3>
+            <h3>Vinod Mishra</h3>
             <div class="space16"></div>
             <p>Hi, I’m Alex, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital
               experiences.</p>

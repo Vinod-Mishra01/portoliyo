@@ -28,18 +28,33 @@
         <div class="space32"></div>
         <div class="space16"></div>
         <div class="btn-area">
-          <a href="contact.php" class="vl-btn1">Get in touch now <img src="assets/img/icons/mail1.svg" alt=""></a>
+          <a href="index.php#list-item-8" class="vl-btn1">Get in touch now <img src="assets/img/icons/mail1.svg" alt=""></a>
         </div>
         <div class="space40"></div>
         <div class="social-link-area">
           <h3 class="sidebar-heading">Social Links</h3>
           <ul>
             <li>
-              <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#"><i class="fa-brands fa-instagram"></i></a>
-              <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-              <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
-              <a href="#"><i class="fa-brands fa-youtube"></i></a>
+              <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
+          <a href="https://www.instagram.com/_prince_mishra_01_?igsh=YXRxbjVvOXR1em5z"
+   target="_blank" rel="noopener">
+  <i class="fa-brands fa-instagram"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/vinodmishraa"
+   target="_blank" rel="noopener">
+  <i class="fa-brands fa-linkedin-in"></i>
+</a>
+
+<a href="https://wa.me/916306850747"
+   target="_blank" rel="noopener">
+  <i class="fa-brands fa-whatsapp"></i>
+</a>
+
+<a href="mailto:017vinodm@gmail.com">
+  <i class="fa-solid fa-envelope"></i>
+</a>
+
             </li>
           </ul>
         </div>

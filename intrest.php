@@ -58,21 +58,21 @@
             <div class="space18"></div>
             <h3>Vinod Mishra</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Vinod,  a Web Developer with 3+ years of experience building modern, responsive, and secure solutions.</p>
+            <p>I’m Vinod, a Web Developer with 3+ years of experience building modern, responsive, and secure digital solutions. I focus on intuitive design, and performance-driven experiences that deliver real results. Inspired by creativity, curiosity, and the small moments that keep me balanced and motivated.</p>
             <div class="space32"></div>
             <ul>
-              <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
+                <li><a href="#"><img src="assets/img/icons/mail-w.svg" alt=""></a></li>
               <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
+              <li><a href="tel:+916306850747"><img src="assets/img/icons/phone-w.svg" alt=""></a></li>
               <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-              <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
+              <li><a href="#" class="m-0"><img src="assets/img/icons/whatsap-w.svg" alt=""></a></li>
             </ul>
             <div class="space44"></div>
             <div class="btn-area1 text-center">
-              <a href="assets/img/all-images/hero/cv.docx" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
+              <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2025 VM. All Rights Reserved.</p>
+            <p>© 2026 VM TECH. All Rights Reserved.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -88,7 +88,7 @@
               <div class="space24"></div>
               <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Work <span>That Inspire</span></h1>
               <div class="space24"></div>
-              <p data-aos="fade-left" data-aos-duration="1100">Discover the personal interests that inspire my creativity, fuel my focus, and bring balance to my everyday life. These passions help me stay grounded, curious, and always improving — both as a creator and as a human. </p>
+              <p data-aos="fade-left" data-aos-duration="1100">Discover the personal interests that inspire my creativity, fuel my focus, and bring balance to my everyday life. These passions help me stay grounded, curious, and always improving - both as a creator and as a human. </p>
               <div class="arrow" data-aos="fade-left" data-aos-duration="1200">
                 <a href="#">
                   <img src="assets/img/elements/elements1.png" alt="" class="elements1 keyframe5">
@@ -101,8 +101,19 @@
           <ul>
             <li>
               <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
-              <a href="#" class="socialIcon"><i class="fa-brands fa-instagram"></i></a>
-              <a href="#" class="socialIcon"><i class="fa-brands fa-linkedin-in"></i></a>
+              <a href="https://www.instagram.com/_prince_mishra_01_?igsh=YXRxbjVvOXR1em5z"
+   class="socialIcon"
+   target="_blank"
+   rel="noopener">
+   <i class="fa-brands fa-instagram"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/vinodmishraa"
+   class="socialIcon"
+   target="_blank"
+   rel="noopener">
+   <i class="fa-brands fa-linkedin-in"></i>
+</a>
               <!-- <a href="#"><i class="fa-brands fa-pinterest-p"></i></a> -->
               <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
             </li>
@@ -136,14 +147,14 @@
                 <div class="row">
                   <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1200">
                     <div class="about-main-boxes">
-                      <h4>Alex Carry</h4>
+                      <h4>Vinod Mishra</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m John, a Web Developer who loves creating clean, intuitive, and meaningful digital experiences. But beyond my work life, there’s a creative side that keeps me inspired and balanced every day.
-This page is a small look into that world — the interests that shape my mindset and fuel my ideas.
+                      <p>Hi, I’m Vinod, a Web Developer who enjoys creating clean, intuitive, and meaningful digital experiences. Beyond my professional work, I have a creative side that keeps me inspired and balanced. This space offers a glimpse into the interests that shape my mindset and fuel my ideas.
 
-Along with designing and coding, I enjoy exploring passions like keyboard playing, reading books, learning new skills, and noticing the small moments that spark creativity. These interests remind me that inspiration doesn’t come only from work, but from living a curious and expressive life.
+Along with designing and coding, I enjoy keyboard playing, reading books, writing, playing games, learning new skills, and noticing the small moments that spark creativity. My journey is a blend of continuous learning, personal creativity, and calm moments that keep me grounded. Each passion - whether music, reading, writing, or discovering something new—adds meaning to both my work and who I’m becoming. </p>
 
-My journey is a blend of continuous learning, personal creativity, and calm moments that keep me grounded. Each passion - whether music, reading, or discovering something new - adds meaning to both my work and who I’m becoming. </p>
+
+
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
@@ -879,7 +890,7 @@ helps me grow with a clearer perspective and a better mindset.
                         <div class="content">
                           <div class="tags-area">
                             <a href="#">23 April 202</a>
-                            <a href="#">Alex Ross</a>
+                            <a href="#">VinodRoss</a>
                           </div>
                           <a href="#">Crafting Compelling Designs and Strategic Marketing: A Creative Journey Unveiled</a>
                           <p>In today's fast-paced digital landscape, the intersection of design and marketing has become increasingly vital for businesses aiming to best captivate audiences and drive success. Crafting compelling designs.</p>

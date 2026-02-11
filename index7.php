@@ -217,7 +217,7 @@
                       <div class="content">
                         <div class="tags-area">
                           <a href="#">23 April 2024</a>
-                          <a href="#">Alex Ross</a>
+                          <a href="#">VinodRoss</a>
                         </div>
                         <a href="#">Crafting Compelling Designs and Strategic Marketing: A Creative Journey Unveiled</a>
                         <p>In today's fast-paced digital landscape, the intersection of design and marketing has become
