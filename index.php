@@ -44,8 +44,12 @@
     <img src="assets/img/all-images/hero/hero-img3.png" alt="">
   <img src="assets/img/all-images/hero/hero-img1.png" alt="">
   <img src="assets/img/all-images/hero/hero-img2.png" alt="">
-  <img src="assets/img/all-images/hero/hero-img3.png" alt="">
-    <img src="assets/img/all-images/hero/hero-img4.png" alt="">
+  <img src="assets/img/all-images/hero/hero-img4.png" alt=""> 
+   <img src="assets/img/all-images/hero/hero-img5.png" alt="">  
+   <img src="assets/img/all-images/hero/hero-img6.png" alt="">  
+   <img src="assets/img/all-images/hero/hero-img7.png" alt="">
+    <img src="assets/img/all-images/hero/hero-img8.png" alt="">
+        <!-- <img src="assets/img/all-images/hero/hero-img9.png" alt=""> -->
 </div>
 
 
@@ -68,7 +72,7 @@
               <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2026 VMTECH. All Rights Reserved.</p>
+            <p>© 2026 Vinod Mishra. All Rights Reserved.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -95,13 +99,13 @@
                   <img src="assets/img/icons/arrow1.svg" alt="" class="arrow1">
                 </a>
 
-                <div class="images">
+                  <div class="images">
                 <div class="social-link-area">
       
           <ul>
             <li>
               <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
-          <a href="https://www.instagram.com/_prince_mishra_01_?igsh=YXRxbjVvOXR1em5z"
+              <a href="https://www.instagram.com/_prince_mishra_01_?igsh=YXRxbjVvOXR1em5z"
    class="socialIcon"
    target="_blank"
    rel="noopener">
@@ -114,7 +118,6 @@
    rel="noopener">
    <i class="fa-brands fa-linkedin-in"></i>
 </a>
-
               <!-- <a href="#"><i class="fa-brands fa-pinterest-p"></i></a> -->
               <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
             </li>
@@ -128,7 +131,7 @@
               
               <div class="space32"></div>
               <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
-                <a href="#">Lets Work Together <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                <a href="#list-item-8">Lets Work Together <span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
             </div>
           </div>
@@ -151,7 +154,7 @@
                     <div class="about-main-boxes">
                       <h4>Vinod Mishra</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Vinod, a Web Developer with 3+ years of experience building modern, responsive, and secure digital solutions. I’ve worked on numerous websites, software projects, and e-commerce solutions across different domains using a variety of modern web technologies.
+                      <p>Hi, I’m Vinod, a Web Developer with 4+ years of experience building modern, responsive, and secure digital solutions. I’ve worked on numerous websites, software projects, and e-commerce solutions across different domains using a variety of modern web technologies.
 
 I focus on creating clean, efficient, and scalable solutions, with strong attention to performance, security, and intuitive UI design - ensuring every project is both visually appealing and easy to use. </p>
                     </div>
@@ -239,11 +242,11 @@ I focus on creating clean, efficient, and scalable solutions, with strong attent
         <h4>Stay Connected</h4>
         <div class="space18"></div>
         <ul>
-            <li><a href="#"><img src="assets/img/icons/mail-w.svg" alt=""></a></li>
-            <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
+            <li><a href="mailto:017vinodm@gmail.com"><img src="assets/img/icons/mail-w.svg" alt=""></a></li>
+            <li><a href="https://www.instagram.com/_prince_mishra_01_?igsh=YXRxbjVvOXR1em5z"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
             <!-- <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li> -->
-            <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-            <li><a href="#" class="m-0"><img src="assets/img/icons/whatsap-w.svg" alt=""></a></li>
+            <li><a href="https://www.linkedin.com/in/vinodmishraa"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
+            <li><a href="https://wa.me/916306850747?text=Hi%20Vinod,%20how%20can%20I%20connect%20with%20you?" class="m-0"><img src="assets/img/icons/whatsap-w.svg" alt=""></a></li>
         </ul>
     </div>
 </div>
@@ -950,7 +953,7 @@ I focus on creating clean, efficient, and scalable solutions, with strong attent
 
 
 
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-6 col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img1.png" alt=""></a>
@@ -974,7 +977,7 @@ I focus on creating clean, efficient, and scalable solutions, with strong attent
 
 
 
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-6 col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img2.png" alt=""></a>
@@ -985,7 +988,7 @@ I focus on creating clean, efficient, and scalable solutions, with strong attent
                                 <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
                               </ul>
                               <div class="space16"></div>
-                              <a href="blog-single.php">Crafting Seamless Experiences: My UI/UX Design Philosophy</a>
+                              <a href="blog-single.php">Crafting Seamless Experiences: My Design Philosophy</a>
                               <div class="space16"></div>
                               <ul>
                                 <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Vinod Mishra</a></li>
@@ -999,7 +1002,7 @@ I focus on creating clean, efficient, and scalable solutions, with strong attent
 
 
 
-                        <div class="col-lg-4 col-md-6">
+                        <!-- <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img3.png" alt=""></a>
@@ -1018,7 +1021,7 @@ I focus on creating clean, efficient, and scalable solutions, with strong attent
                               </ul>
                             </div>
                           </div>
-                        </div>
+                        </div> -->
 
 
 
@@ -1195,11 +1198,22 @@ I focus on creating clean, efficient, and scalable solutions, with strong attent
         <div class="footer-area">
           <div class="btn-area1">
                    <a href="index1.php">
-    <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo">
-    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo">
+    <!-- <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo">
+    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo"> -->
+
+
+
+
+ <!-- <img src="assets/img/icons/sublogo1.svg" class="logo-light" alt="Logo">
+
+
+<img src="assets/img/icons/sublogo1.svg" class="logo-dark" alt="Logo"> -->
+
+<span class="logo-text">Vinod Mishra</span>
+
 </a>
           </div>
-          <p>© 2026 VMTECH. All Rights Reserved.</p>
+          <p>© 2026 Vinod Mishra. All Rights Reserved.</p>
         </div>
       </div>
 

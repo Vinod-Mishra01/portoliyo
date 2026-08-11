@@ -6,9 +6,17 @@
           <div class="col-lg-12">
             <div class="header-elements">
               <div class="site-logo">
-          <a href="index1.php">
-    <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo">
-    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo">
+          <a href="index.php">
+    <!-- <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo"> -->
+       <!-- <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo"> -->
+ <!-- <img src="assets/img/icons/sublogo1.svg" class="logo-light" alt="Logo">
+
+
+<img src="assets/img/icons/sublogo1.svg" class="logo-dark" alt="Logo"> -->
+
+<span class="logo-text">Vinod Mishra</span>
+
+
 </a>
               </div>
               <div class="btn-area d-lg-flex">

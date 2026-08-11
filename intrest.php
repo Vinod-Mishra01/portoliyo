@@ -48,8 +48,12 @@
     <img src="assets/img/all-images/hero/hero-img3.png" alt="">
   <img src="assets/img/all-images/hero/hero-img1.png" alt="">
   <img src="assets/img/all-images/hero/hero-img2.png" alt="">
-
-    <img src="assets/img/all-images/hero/hero-img4.png" alt="">
+  <img src="assets/img/all-images/hero/hero-img4.png" alt=""> 
+   <img src="assets/img/all-images/hero/hero-img5.png" alt="">  
+   <img src="assets/img/all-images/hero/hero-img6.png" alt="">  
+   <img src="assets/img/all-images/hero/hero-img7.png" alt="">
+    <img src="assets/img/all-images/hero/hero-img8.png" alt="">
+        <!-- <img src="assets/img/all-images/hero/hero-img9.png" alt=""> -->
 </div>
 
 
@@ -58,7 +62,7 @@
             <div class="space18"></div>
             <h3>Vinod Mishra</h3>
             <div class="space16"></div>
-            <p>I’m Vinod, a Web Developer with 3+ years of experience building modern, responsive, and secure digital solutions. I focus on intuitive design, and performance-driven experiences that deliver real results. Inspired by creativity, curiosity, and the small moments that keep me balanced and motivated.</p>
+            <p>I’m Vinod, a Web Developer with 4+ years of experience building modern, responsive, and secure digital solutions. I focus on intuitive design, and performance-driven experiences that deliver real results. Inspired by creativity, curiosity, and the small moments that keep me balanced and motivated.</p>
             <div class="space32"></div>
             <ul>
                 <li><a href="#"><img src="assets/img/icons/mail-w.svg" alt=""></a></li>
@@ -126,7 +130,7 @@
               </div>
               <div class="space32"></div>
               <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
-                <a href="#">Start a Conversation<span><i class="fa-solid fa-arrow-right"></i></span></a>
+                <a href="#list-item-8">Start a Conversation<span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
             </div>
           </div>
@@ -151,7 +155,7 @@
                       <div class="space24"></div>
                       <p>Hi, I’m Vinod, a Web Developer who enjoys creating clean, intuitive, and meaningful digital experiences. Beyond my professional work, I have a creative side that keeps me inspired and balanced. This space offers a glimpse into the interests that shape my mindset and fuel my ideas.
 
-Along with designing and coding, I enjoy keyboard playing, reading books, writing, playing games, learning new skills, and noticing the small moments that spark creativity. My journey is a blend of continuous learning, personal creativity, and calm moments that keep me grounded. Each passion - whether music, reading, writing, or discovering something new—adds meaning to both my work and who I’m becoming. </p>
+Along with designing and coding, I enjoy keyboard playing, reading books, writing, playing games, learning new skills, and noticing the small moments that spark creativity. My journey is a blend of continuous learning, personal creativity, and calm moments that keep me grounded. Each passion - whether music, reading, writing, or discovering something new adds meaning to both my work and who I’m becoming. </p>
 
 
 
@@ -185,7 +189,7 @@ I'm passionate about reading, and I always make time for the pages that teach me
 Every book adds a small piece of wisdom to our journey.
 
 <br><br>
-“A reader lives a thousand lives before he dies.” — George R.R. Martin
+“A reader lives a thousand lives before he dies.” - George R.R. Martin
 </p>
                       </div>
                     </div>
@@ -202,7 +206,7 @@ It helps me slow down, understand myself better, and express what I often can’
 Writing gives clarity, and clamness.<br>
 <br>
 “Writing is the painting of the voice.”<br>
-“The act of writing is the act of discovering what you believe.” — David Hare
+“The act of writing is the act of discovering what you believe.” - David Hare
 </p>
                       </div>
                     </div>
@@ -280,11 +284,11 @@ helps me grow with a clearer perspective and a better mindset.
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
-              <source src="assets/img/video/video4.mp4" type="video/mp4">
+              <source src="assets/img/video/p7.mp4" type="video/mp4">
             </video>
           </div>
           <div class="space5"></div>
-          <a href="#">Soft Melody Practice</a>
+          <!-- <a href="#">Soft Melody Practice</a> -->
         </div>
       </div>
 
@@ -293,11 +297,11 @@ helps me grow with a clearer perspective and a better mindset.
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
-              <source src="assets/img/video/video3.mp4" type="video/mp4">
+              <source src="assets/img/video/p2.mp4" type="video/mp4">
             </video>
           </div>
           <div class="space5"></div>
-          <a href="#">Learning New Chords</a>
+          <!-- <a href="#">Learning New Chords</a> -->
         </div>
       </div>
 
@@ -306,14 +310,48 @@ helps me grow with a clearer perspective and a better mindset.
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
-              <source src="assets/img/video/video1.mp4" type="video/mp4">
+              <source src="assets/img/video/p3.mp4" type="video/mp4">
             </video>
           </div>
           <div class="space5"></div>
-          <a href="#">Finger Speed Practice</a>
+          <!-- <a href="#">Finger Speed Practice</a> -->
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
+        <div class="portfolio-boxarea2 click-here">
+          <div class="img12">
+            <video controls class="music-video">
+              <source src="assets/img/video/p4.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="space5"></div>
+          <!-- <a href="#">Finger Speed Practice</a> -->
         </div>
       </div>
 
+          <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
+        <div class="portfolio-boxarea2 click-here">
+          <div class="img12">
+            <video controls class="music-video">
+              <source src="assets/img/video/p5.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="space5"></div>
+          <!-- <a href="#">Finger Speed Practice</a> -->
+        </div>
+      </div>
+
+            <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
+        <div class="portfolio-boxarea2 click-here">
+          <div class="img12">
+            <video controls class="music-video">
+              <source src="assets/img/video/p6.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="space5"></div>
+          <!-- <a href="#">Finger Speed Practice</a> -->
+        </div>
+      </div>
     </div><!-- END VIDEO ROW -->
 
   </div>
@@ -379,7 +417,7 @@ helps me grow with a clearer perspective and a better mindset.
     <div id="selfgrowth" class="book-tab-content" style="display:block;">
       <div class="row">
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/book1 (7).jpg" class="glightbox" data-gallery="selfgrowth">
@@ -391,7 +429,7 @@ helps me grow with a clearer perspective and a better mindset.
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/book1 (13).jpg" class="glightbox" data-gallery="selfgrowth">
@@ -403,7 +441,7 @@ helps me grow with a clearer perspective and a better mindset.
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/book1 (21).jpg" class="glightbox" data-gallery="selfgrowth">
@@ -415,7 +453,7 @@ helps me grow with a clearer perspective and a better mindset.
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/book1 (3).jpg" class="glightbox" data-gallery="selfgrowth">
@@ -431,7 +469,7 @@ helps me grow with a clearer perspective and a better mindset.
 
 
 
-           <div class="col-6 col-md-3 col-lg-2">
+           <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/bookd.png" class="glightbox" data-gallery="selfgrowth">
@@ -448,17 +486,6 @@ helps me grow with a clearer perspective and a better mindset.
 
 
 
-           <div class="col-6 col-md-3 col-lg-2">
-          <div class="portfolio-boxarea2">
-            <div class="img1">
-              <a href="assets/img/books/book1 (3).jpg" class="glightbox" data-gallery="selfgrowth">
-                <img src="assets/img/books/book1 (3).jpg" alt="">
-              </a>
-            </div>
-            <div class="space10"></div>
-            <a href="#">Beyond Good and Evil</a>
-          </div>
-        </div>
 
 
       </div>
@@ -468,23 +495,46 @@ helps me grow with a clearer perspective and a better mindset.
     <div id="hindi" class="book-tab-content" style="display:none;">
       <div class="row">
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <a href="assets/img/books/book1 (11).jpg" class="glightbox" data-gallery="hindi">
-                <img src="assets/img/books/book1 (11).jpg" alt="">
+              <a href="assets/img/books/Shekhar Ek Jeevani-Part 1.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/Shekhar Ek Jeevani-Part 1.jpg" alt="">
               </a>
             </div>
             <div class="space10"></div>
-            <a href="#">Godan</a>
+            <a href="#">Shekhar Ek Jeevani 1</a>
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <a href="assets/img/books/book1 (15).jpg" class="glightbox" data-gallery="hindi">
-                <img src="assets/img/books/book1 (15).jpg" alt="">
+              <a href="assets/img/books/Shekhar Ek Jeevani-Part 2.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/Shekhar Ek Jeevani-Part 2.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Shekhar Ek Jeevani 2</a>
+          </div>
+        </div>
+
+        <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/october-junction.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/october-junction.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">October Junction</a>
+          </div>
+        </div>
+            <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/gaban.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/gaban.jpg" alt="">
               </a>
             </div>
             <div class="space10"></div>
@@ -492,15 +542,120 @@ helps me grow with a clearer perspective and a better mindset.
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+
+
+            <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <a href="assets/img/books/book1 (18).jpg" class="glightbox" data-gallery="hindi">
-                <img src="assets/img/books/book1 (18).jpg" alt="">
+              <a href="assets/img/books/godan.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/godan.jpg" alt="">
               </a>
             </div>
             <div class="space10"></div>
-            <a href="#">October Junction</a>
+            <a href="#">Gadan</a>
+          </div>
+        </div>
+
+
+<!-- 
+              <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/godan.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/godan.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Gadan</a>
+          </div>
+        </div> -->
+
+
+
+
+              <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/nirmla.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/nirmla.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Nirmala</a>
+          </div>
+        </div>
+
+
+     <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/gunaho-ka-devta.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/gunaho-ka-devta.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Gunaho Ka Devta</a>
+          </div>
+        </div>
+              <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/diwari-me-ek-khidiki.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/diwari-me-ek-khidiki.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Diwar me Khidki</a>
+          </div>
+        </div>
+
+
+              <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/madhushala.jfif" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/madhushala.jfif" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Madhushala</a>
+          </div>
+        </div>
+
+            <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/darkhorse.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/darkhorse.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Dark Horse</a>
+          </div>
+        </div>
+            <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/maila-anchal.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/maila-anchal.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Maila Aanchal</a> 
+          </div>
+        </div>
+
+
+
+            <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/Musafir-café.jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/Musafir-café.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Musafir afé</a> 
           </div>
         </div>
 
@@ -511,19 +666,19 @@ helps me grow with a clearer perspective and a better mindset.
     <div id="english" class="book-tab-content" style="display:none;">
       <div class="row">
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/book1 (2).jpg" class="glightbox" data-gallery="english">
-                <img src="assets/img/books/book1 (2).jpg" alt="">
+                <img src="assets/img/books/metamorphosis.jpg" alt="">
               </a>
             </div>
             <div class="space10"></div>
-            <a href="#">Anne Frank</a>
+            <a href="#">Metamorphisis</a>
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <!-- <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/book1 (1).jpeg" class="glightbox" data-gallery="english">
@@ -531,9 +686,9 @@ helps me grow with a clearer perspective and a better mindset.
               </a>
             </div>
             <div class="space10"></div>
-            <a href="#">Dream Psychology</a>
+            <a href="#">krishna ki Aatmkatha</a>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </div>
@@ -542,11 +697,11 @@ helps me grow with a clearer perspective and a better mindset.
     <div id="spiritual" class="book-tab-content" style="display:none;">
       <div class="row">
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <a href="assets/img/books/book1 (1).jpeg" class="glightbox" data-gallery="spiritual">
-                <img src="assets/img/books/book1 (1).jpeg" alt="">
+              <a href="assets/img/books/krishna-Ki-Aatmkatha.jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/krishna-Ki-Aatmkatha.jpg" alt="">
               </a>
             </div>
             <div class="space10"></div>
@@ -554,19 +709,19 @@ helps me grow with a clearer perspective and a better mindset.
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <a href="assets/img/books/book1 (22).jpg" class="glightbox" data-gallery="spiritual">
-                <img src="assets/img/books/book1 (22).jpg" alt="">
+              <a href="assets/img/books/Shikhandi.jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/Shikhandi.jpg" alt="">
               </a>
             </div>
             <div class="space10"></div>
-            <a href="#">Karn Ki Aatmkatha</a>
+            <a href="#">Shikhandi</a>
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
               <a href="assets/img/books/book1 (11).jpg" class="glightbox" data-gallery="spiritual">
@@ -578,15 +733,28 @@ helps me grow with a clearer perspective and a better mindset.
           </div>
         </div>
 
-        <div class="col-6 col-md-3 col-lg-2">
+        <div class="col-4 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <a href="assets/img/books/book1 (16).jpg" class="glightbox" data-gallery="spiritual">
-                <img src="assets/img/books/book1 (16).jpg" alt="">
+              <a href="assets/img/books/Autobiography of Drona.jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/Autobiography of Drona.jpg" alt="">
               </a>
             </div>
             <div class="space10"></div>
-            <a href="#">Shikhndi</a>
+            <a href="#">Autobiography of Drona</a>
+          </div>
+        </div>
+
+
+         <div class="col-4 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/Rashmirathi.jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/Rashmirathi.jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Rashmirathi</a>
           </div>
         </div>
 
@@ -626,7 +794,7 @@ helps me grow with a clearer perspective and a better mindset.
                       <h2 class="head" data-aos="fade-left" data-aos-duration="1200">Daily  <span>  Life Blog</span> </h2>
                       <div class="space60"></div>
                       <div class="row">
-                        <div class="col-lg-4 col-md-4">
+                        <div class="col-6 col-lg-4 col-md-4 ">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img1.png" alt=""></a>
@@ -643,7 +811,7 @@ helps me grow with a clearer perspective and a better mindset.
                             </div>
                           </div>
                         </div>
-                        <div class="col-lg-4 col-md-4">
+                        <div class=" col-6 col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img2.png" alt=""></a>
@@ -654,14 +822,14 @@ helps me grow with a clearer perspective and a better mindset.
                       <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
-                              <a href="blog-single.php">Crafting Seamless Experiences: My UI/UX Design Philosophy</a>
+                              <a href="blog-single.php">Crafting Seamless Experiences: My UI/UX Philosophy</a>
                               <div class="space16"></div>
                           
                             </div>
                           </div>
                         </div>
 
-                        <div class="col-lg-4 col-md-4">
+                        <!-- <div class="col-6 col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img3.png" alt=""></a>
@@ -677,7 +845,7 @@ helps me grow with a clearer perspective and a better mindset.
                            
                             </div>
                           </div>
-                        </div>
+                        </div> -->
 
                         <!-- <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
@@ -847,11 +1015,20 @@ helps me grow with a clearer perspective and a better mindset.
         <div class="footer-area">
           <div class="btn-area1">
                  <a href="index1.php">
-    <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo">
-    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo">
+    <!-- <img src="assets/img/logo/logo2.png" class="logo-light" alt="Logo">
+    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo"> -->
+
+
+ <!-- <img src="assets/img/icons/sublogo1.svg" class="logo-light" alt="Logo">
+
+
+<img src="assets/img/icons/sublogo1.svg" class="logo-dark" alt="Logo"> -->
+
+<span class="logo-text">Vinod Mishra</span>
+
 </a>
           </div>
-          <p>© 2025 VMTECH. All Rights Reserved.</p>
+          <p>© 2025 Vinod Mishra. All Rights Reserved.</p>
         </div>
       </div>
 

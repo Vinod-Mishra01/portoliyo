@@ -3,9 +3,15 @@
     <div class="slide-bar slide-bar1">
       <div class="sidebar-info">
         <div class="sidebar-logo">
-                 <a href="index1.php">
-    <img src="assets/img/logo/logo1.png" class="logo-light" alt="Logo">
-    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo">
+                 <a href="index.php">
+    <!-- <img src="assets/img/logo/logo1.png" class="logo-light" alt="Logo">
+    <img src="assets/img/logo/logo1.png" class="logo-dark" alt="Logo"> -->
+     <!-- <img src="assets/img/icons/sublogo1.svg" class="logo-light" alt="Logo">
+
+
+<img src="assets/img/icons/sublogo1.svg" class="logo-dark" alt="Logo"> -->
+
+<span class="logo-text">Vinod Mishra</span>
 </a>
           <div class="close-mobile-menu">
             <a><i class="fa-solid fa-xmark"></i></a>
@@ -46,7 +52,7 @@
   <i class="fa-brands fa-linkedin-in"></i>
 </a>
 
-<a href="https://wa.me/916306850747"
+<a href="https://wa.me/916306850747?text=Hi%20Vinod,%20how%20can%20I%20connect%20with%20you?"
    target="_blank" rel="noopener">
   <i class="fa-brands fa-whatsapp"></i>
 </a>

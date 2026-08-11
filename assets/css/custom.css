@@ -371,21 +371,7 @@ a.socialIcon{
 
 
 
-.main-hero-area5 .hero-heading-area .main-btn-area a span {
-    margin-left: 20px;
-    height: 80px;
-    width: 80px;
-    text-align: center;
-    line-height: 80px;
-    transform: rotate(-45deg);
-    display: inline-block;
-    border-radius: 50%;
-    background: rgb(255 174 0);
-    font-size: var(--ztc-font-size-font-s32);
-    position: relative;
-    top: -8px;
-    transition: all 0.4s;
-}
+
 
 
 
@@ -486,7 +472,16 @@ a.socialIcon{
     .main-hero-area5 .hero-heading-area .arrow {
         display: flex;
     }
-}
+
+
+
+    .main-hero-area5 .hero-heading-area .main-btn-area a {
+
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: 25px !important;
+
+}}
 
 
 
@@ -500,17 +495,17 @@ a.socialIcon{
 }
 .main-hero-area5 .hero-heading-area .main-btn-area a span {
     margin-left: 20px;
-    height: 60px;
-    width: 60px;
+    height: 45px;
+    width: 45px;
     text-align: center;
-    line-height: 60px;
+    line-height: 45px;
     transform: rotate(-45deg);
     display: inline-block;
     border-radius: 50%;
     background: rgb(255 174 0);
     font-size: 25px;
     position: relative;
-    top: -8px;
+    top: 0px;
     transition: all 0.4s;
 }
 
@@ -518,7 +513,7 @@ a.socialIcon{
 .main-hero-area5 .hero-heading-area .main-btn-area a {
     background: var(--ztc-bg-bg2);
     border: 1px solid var(--ztc-border-border-2);
-    padding: 20px 25px !important;
+    padding: 20px 20px !important;
     border-radius: 8px;
     color: var(--ztc-text-text-1);
     font-family: var(--ztc-family-font1);
@@ -628,7 +623,27 @@ element.style {
     height: 300px;
     -o-object-position: top;
     object-position: top;
-}}
+}
+
+
+.main-hero-area5 .hero-heading-area .main-btn-area a span {
+    margin-left: 20px;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    line-height: 80px;
+    transform: rotate(-45deg);
+    display: inline-block;
+    border-radius: 50%;
+    background: rgb(255 174 0);
+    font-size: var(--ztc-font-size-font-s32);
+    position: relative;
+    top: -8px;
+    transition: all 0.4s;
+}
+
+
+}
 
 @media only screen and (max-width: 1300px) {
 
@@ -652,4 +667,114 @@ element.style {
     transition: all 0.4s;
     width: 35px;
 }
+}
+
+.heading1 h5 img {
+    margin: 0 6px 5px 0;
+}
+@media only screen and (max-width: 768px) {
+    .main-hero-area5 .hero-heading-area .arrow a {
+        border-radius: 0;
+        display: inline-block;
+        border: none !important;
+        background: none !important;
+        -webkit-backdrop-filter: blur(60.4687538147px);
+        backdrop-filter: blur(60.4687538147px);
+        position: relative;
+        padding: 8px;
+        border: 1px solid #ffffff !important;
+        border-radius: 100px;
+    }
+
+
+    .main-hero-area4 .hero-heading-area .main-btn-area a span {
+    margin-left: 20px;
+    height: 50px !important;
+    width: 50px !important;
+    text-align: center;
+    line-height: 50px !important;
+    transform: rotate(-45deg);
+    display: inline-block;
+    border-radius: 50%;
+    background: var(--ztc-bg-bg2);
+    font-size: var(--ztc-font-size-font-s32);
+    position: relative;
+    top: 0px;
+    transition: all 0.4s;
+}
+
+}
+
+@media (max-width: 767px) {
+    .main-hero-area4 .hero-heading-area .arrow {
+        display: flex !important;
+    }
+}
+
+.main-hero-area4 .hero-heading-area .main-btn-area a span {
+ 
+    background: rgb(255 174 0);
+ 
+}
+.fa-whatsapp:before {
+    content: "\f232";
+   
+    color: #ffc107;
+}
+
+.fa-envelope::before {
+    content: "\f0e0";
+        color: #ffc107;
+}
+
+
+@media  (min-width: 1024px){
+    
+.main-hero-area4 .hero-heading-area .main-btn-area a span {
+    margin-left: 20px;
+    height: 65px !important;
+    width: 65px !important;
+    text-align: center;
+    line-height: 65px !important;
+    transform: rotate(-45deg);
+    display: inline-block;
+    border-radius: 50%;
+    background: var(--ztc-bg-bg2);
+    font-size: var(--ztc-font-size-font-s32);
+    position: relative;
+    top: 0px;
+    transition: all 0.4s;
+}
+}
+    
+.logo-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+}
+
+.logo-text {
+  font-size: 30px;
+  font-weight: 700;
+  color: #ffae00; /* dark background ke liye */
+
+    margin-bottom: -25px;
+}
+
+
+
+@media (max-width: 767px) {
+    .main-hero-area4 .hero-heading-area .main-btn-area a {
+        font-size: 25px;
+        line-height: 33px;
+        padding: 20px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .main-hero-area4 .hero-heading-area .main-btn-area a span {
+        margin-top: 0px;
+    }
 }
